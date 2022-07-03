@@ -25,10 +25,18 @@
 ### Check out my works 🧑‍💻
 
 <div>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmoreira-dev&repo=airlines&theme=merko" />
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmoreira-dev&repo=airlines-android&theme=merko" />
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmoreira-dev&repo=flutter-charts&theme=merko" />
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmoreira-dev&repo=a-flutter-app-of-ice-and-fire&theme=merko" />
+  <a href="https://github.com/gabrielmoreira-dev/airlines" >
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmoreira-dev&repo=airlines&theme=merko" />
+  </a>
+  <a href="https://github.com/gabrielmoreira-dev/airlines-android" >
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmoreira-dev&repo=airlines-android&theme=merko" />
+  </a>
+  <a href="https://github.com/gabrielmoreira-dev/flutter-charts" >
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmoreira-dev&repo=flutter-charts&theme=merko" />
+  </a>
+  <a href="https://github.com/gabrielmoreira-dev/a-flutter-app-of-ice-and-fire" >
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmoreira-dev&repo=a-flutter-app-of-ice-and-fire&theme=merko" />
+  </a>
 </div>
 
 ##
