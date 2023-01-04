@@ -10,8 +10,8 @@
 
 <div>
   <a href="https://github.com/gabrielmoreira-dev" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabrielmoreira-dev&show_icons=true&include_all_commits=true&count_private=true&theme=merko" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmoreira-dev&layout=compact&langs_count=6&theme=merko" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabrielmoreira-dev&show_icons=true&include_all_commits=true&theme=merko&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmoreira-dev&layout=compact&langs_count=6&theme=merko&count_private=true" />
 </div>
 
 <div style="display: inline_block"><br>
@@ -27,16 +27,16 @@
 
 <div>
   <a href="https://github.com/gabrielmoreira-dev/airlines" >
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmoreira-dev&repo=airlines&theme=merko" />
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmoreira-dev&repo=airlines&theme=merko&count_private=true" />
   </a>
   <a href="https://github.com/gabrielmoreira-dev/flutter-charts" >
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmoreira-dev&repo=flutter-charts&theme=merko" />
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmoreira-dev&repo=flutter-charts&theme=merko&count_private=true" />
   </a>
   <a href="https://github.com/gabrielmoreira-dev/airlines-android" >
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmoreira-dev&repo=airlines-android&theme=merko" />
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmoreira-dev&repo=airlines-android&theme=merko&count_private=true" />
   </a>
   <a href="https://github.com/gabrielmoreira-dev/a-flutter-app-of-ice-and-fire" >
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmoreira-dev&repo=a-flutter-app-of-ice-and-fire&theme=merko" />
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmoreira-dev&repo=a-flutter-app-of-ice-and-fire&theme=merko&count_private=true" />
   </a>
 </div>
 
