@@ -23,7 +23,7 @@
 
 ##
 
-### Check out my work 🧑‍💻
+### Check out my jobs 🧑‍💻
 
 <div>
   <a href="https://github.com/gabrielmoreira-dev/airlines" >
