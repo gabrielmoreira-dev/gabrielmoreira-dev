@@ -11,7 +11,7 @@
 <div>
   <a href="https://github.com/gabrielmoreira-dev" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabrielmoreira-dev&show_icons=true&include_all_commits=true&theme=merko&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmoreira-dev&layout=compact&langs_count=6&theme=merko&count_private=true" />y i
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmoreira-dev&layout=compact&langs_count=6&theme=merko&count_private=true" />
 </div>
 
 <div style="display: inline_block"><br>
